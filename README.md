@@ -1,7 +1,7 @@
 # Sticky Notes
 
 Apple風のモダンなデザインで作られた付箋メモWebアプリです。
-
+URL：https://sticky-note-ashen.vercel.app/
 ## 機能
 
 | 機能 | 詳細 |
